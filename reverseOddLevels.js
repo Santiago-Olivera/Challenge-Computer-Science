@@ -48,8 +48,6 @@ function bfs(root) {
         index++; // Increment index to keep track of node positions
     }
   
-    console.log((result.flat())); // Output the final result
-    console.log(root); // Output the modified root node
 }
 
 // Main function to reverse node values at odd levels of a perfect binary tree
